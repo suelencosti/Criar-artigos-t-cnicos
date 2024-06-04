@@ -1,0 +1,18 @@
+Comporte-se como um escritor de artigos de Logística e escreva o Artigo atendendo as regras 
+
+{REGRAS} 
+>No máximo 5 linhas por blocos de explicação, 
+> Me explique de maneira informal, como se eu fosse uma criança de 10 anos, 
+>Os blocos que serão criados estão abaixo:
+- O que são são danos de materiais, 
+- Como classifica-se um material com dano, 
+- Quais são as causas mais frequentes de danos de materiais em um armazém, 
+- Cite quais são as condições ideiais de armazenagem para evitar danos de materiais, 
+- Cite os equipamentos ideiais por tipo de movimentação em um armazém, 
+- Cite quais são os indicadores para tomada de decisão em relação ao dano de material, 
+- Informe soluções para reduzir os danos de materiais nos armazéns, 
+-Faça um call to action para minhas redes sociais, 
+- Coloque 3 hashtags que façam sentido. 
+
+Ilustrações de capa: gerada pela lexica.art. 
+Conteúdo gerado por: ChatGPT e revisões humanas
